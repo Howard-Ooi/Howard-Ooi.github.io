@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Howard Ooi"
+title                    : "Howard Ooi's profile"
 title_separator          : "-"
 name                     : &name "Howard Ooi"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Howard Ooi's Homepage"
   pronouns         : # example: "He/Him/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi! I'm Howard Ooi, I am a student at Chung Ling Private High School. This is my personal website where I share my thoughts and experiences."
   location         : "Earth"
   employer         : "Chung Ling Private High School"
   uri              : # URL
